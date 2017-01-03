@@ -4,8 +4,8 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "ATT9H992a4";
-const char* password = "5y3z3c7t3b9p";
+const char* ssid     = ""; // insert your wifi network name
+const char* password = ""; // insert your wifi password
 
 const char* host = "ezchx.com";
 
